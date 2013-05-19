@@ -1,4 +1,4 @@
 CMSSW
 =====
 
-My CMS Software
+My CMS Software repository
